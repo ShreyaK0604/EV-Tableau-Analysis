@@ -21,11 +21,11 @@ Follow these steps to explore the dashboard locally or view it online:
 
 ### Prerequisites
 
-- [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Public](https://public.tableau.com/en-us/s/gallery) if the dashboard is hosted there.
+- [Tableau Desktop](https://public.tableau.com/shared/9SNKH7FFX?:display_count=n&:origin=viz_share_link) or [Tableau Public](https://public.tableau.com/shared/9SNKH7FFX?:display_count=n&:origin=viz_share_link) if the dashboard is hosted there.
 
 ### Viewing Online
 
-The easiest way to view the dashboard is by accessing it online on [Tableau Public](https://public.tableau.com/en-us/s/gallery). Visit the following link: [Dashboard on Tableau Public](URL_HERE).
+The easiest way to view the dashboard is by accessing it online on [Tableau Public](https://public.tableau.com/shared/9SNKH7FFX?:display_count=n&:origin=viz_share_link). Visit the following link: [Dashboard on Tableau Public](URL_HERE).
 
 ### Running Locally
 
