@@ -3,7 +3,6 @@
 
 Welcome to the Tableau Business Analysis Dashboard repository! This repository contains the Tableau dashboard I've created for business analysis purposes. The dashboard provides insights and visualizations related to [describe the main focus of the dashboard].
 
-![Dashboard Preview](https://public.tableau.com/shared/9SNKH7FFX?:display_count=n&:origin=viz_share_link) <!-- Add a screenshot or image of your dashboard -->
 
 ## Dashboard Overview
 
